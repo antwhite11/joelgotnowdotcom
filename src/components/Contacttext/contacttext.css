@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+
+
+
+.conthead{
+
+font-size: 50px;
+font-family: 'Fjalla One', sans-serif;
+margin-top: 30px;
+font-weight: bold;
+
+
+
+
+}
+
+.boldemail{
+
+font-weight: bold;
+
+
+}
+
+
+.addmargin{
+
+
+    margin-left: 10px;
+}
+
+
+.addmargin:hover{
+
+
+font-size: 15px;
+font-weight: bold;
+
+
+}

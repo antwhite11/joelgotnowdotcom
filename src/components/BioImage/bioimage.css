@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Text:wght@800&display=swap');
+
+
+.nextmarg{
+
+padding: 0px;
+margin-left: 0px;
+
+}
+
+
+.mobmarg{
+
+   padding-left: 60px;
+   padding-right: 60px;
+    
+    margin-bottom: 40px;
+}
+
+
+
+.text{
+
+font-size: 40px;
+
+
+
+
+}
+
+.bordmarg{
+
+margin-left: 0px;
+
+
+
+}
+
+
+.headfont{
+
+    font-family: 'Big Shoulders Text', cursive;
+    font-size: 40px;
+
+ 
+
+}
+
+.spacing{
+
+
+letter-spacing: 3px;
+font-size: 14px;
+
+
+
+}
+
+.line{
+
+   
+
+    text-decoration: line-through;
+    
+    
+    
+    }
+
+
+.margt{
+
+
+margin-top: 100px;
+
+
+
+
+
+
+}
+
+.imgSize{
+
+
+height: auto;
+width: 475px;
+margin-top: 60px;
+
+
+
+
+
+} 
+
+@media screen and (max-width:999px) {
+
+
+    .spacing{
+
+
+    font-size: 11px;
+
+
+    }
+    
+}
+
+@media screen and (max-width:770px){
+
+    .imgSize{
+    
+        height: auto;
+        width: 350px;
+        margin-top: 85px;
+
+
+
+}
+
+
+}
+
+@media screen and (max-width: 600px){
+
+
+    .mobmarg {
+
+
+        margin-top: -15px;
+
+       
+
+
+    }
+
+   
+   
+   
+   
+    .imgSize{
+    
+    height: auto;
+    width: 300px;
+    margin-top: 25px;
+    
+    
+    
+    
+    }
+
+
+  
+
+
+    
+    
+    
+    }
+
+@media screen and (max-width: 390px) {
+
+    .mobmarg{
+        padding-left: 0px;
+        padding-right: 0px;
+
+
+    }
+    
+}
+
+
+@media screen and (max-width: 300px ) {
+
+
+
+    .imgSize{
+
+        width: 250px;
+
+    }
+
+
+    .spacing{
+
+
+        font-size: 7px;
+    
+    
+        }
+        
+    
+}
+
+

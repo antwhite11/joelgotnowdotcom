@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&display=swap');
+
+
+.titlefont{
+
+font-size: 44px;
+
+margin-top: 80px;
+
+font-family: 'Bad Script', cursive;
+
+font-weight: bold;
+
+
+
+
+
+
+}
+
+.nowlink{
+
+color: black;
+
+
+
+}
+
+.nowlink:hover{
+
+color: red;
+font-weight: bold;
+font-style: italic;
+text-decoration: none;
+
+}
+
+
+
+
+
+
+@media screen and (max-width:600px) {
+
+    .titlefont{
+
+
+
+    margin-top: 15px;
+
+    }
+    
+}
+
+
+
+
+
+
+.coverEdit {
+    
+    height: 260px;
+    width: 260px
+  
+    
+    
+    }
+
+
+
+
+.margin {
+
+margin-left: 0px;
+padding-left: 0px;
+margin-top: 0px;
+
+
+
+}
+
+.italicsthis{
+
+font-style: italic;
+
+
+}
+
+
+

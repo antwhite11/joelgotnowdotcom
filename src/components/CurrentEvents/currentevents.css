@@ -1,0 +1,142 @@
+.current {
+
+    text-align: center;
+    font-weight: bold ;
+    font-size: 55px;
+    margin-top: 35px;
+    margin-right: 0px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: black;
+    
+    
+    }
+
+
+    
+    
+    .centerImg {
+    
+    text-align: center;
+    margin-top: 25px;
+    
+    }
+    
+    .platforms {
+    
+        text-align: center;
+        font-style: italic;
+        color: black;
+    }
+    
+    
+    .coverEdit {
+    
+    height: 400px;
+    width: 400px
+    
+    }
+
+
+    @media screen and (max-width: 420px) {
+
+        .coverEdit {
+    
+            height: 260px;
+            width: 260px
+            
+            }
+
+
+            .wyavid {
+
+                height: 300px;
+                width: 400px
+    
+    
+    
+            }
+            
+        
+    }
+
+
+
+
+
+
+
+
+    @media screen and (max-width: 375px) {
+
+        .coverEdit {
+    
+            height: 260px;
+            width: 260px
+            
+            }
+
+
+            .wyavid {
+
+                height: 300px;
+                width: 285px
+    
+    
+    
+            }
+            
+        
+    }
+
+    @media screen and (max-width: 280px) {
+
+
+        .coverEdit{
+
+            height: 260px;
+            width: 260px
+
+
+        }
+
+        .wyavid {
+
+            height: 260px;
+            width: 260px
+
+
+
+        }
+        
+    }
+
+
+
+
+    .mymargin{
+
+    margin-right: 10px;
+    margin-bottom: 40px;
+
+    }
+
+
+    .linkprops{
+
+        text-decoration: underline;
+        color: black;
+        font-weight: lighter;
+        
+
+
+    }
+
+    .linkprops:hover{
+
+
+        font-weight: bolder;
+        color: red;
+        text-decoration: none;
+
+
+    }
