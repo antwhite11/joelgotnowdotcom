@@ -9,7 +9,7 @@ return (
 
 <div className= "container-fluid margb">
     <div className = "row">
-    <div className= "col-md-12">
+    <div className= "col-xs-12">
 
 <nav className=" navbar navbgcolor fixed-top px-3">
   <div className="navbar-brand brandfont" href="#">JoélGotNow</div>
