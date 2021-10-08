@@ -4,4 +4,37 @@ margin-top: 47px;
 
 
 
+
 }
+
+
+@media screen and (min-height:730px ) {
+
+.footmarg{
+    margin-top: 69px;
+}
+}
+
+@media screen and (min-height:736px ) {
+
+    .footmarg{
+        margin-top: 73px;
+    }
+    }
+    
+
+
+@media screen and (min-height:1000px ) {
+
+    .footmarg{
+        margin-top: 191px;
+    }
+    }
+
+
+    @media screen and (min-height:1100px ) {
+
+        .footmarg{
+            margin-top: 534px;
+        }
+        }

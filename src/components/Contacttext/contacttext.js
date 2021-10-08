@@ -53,13 +53,13 @@ Reach Out.
 <div className="row">
 
 <Slide left={true}>
-<div className= "col-md-12 text-center">
+<div className= "col-md-12 mobtext text-center">
 
 
 
 
-<span className="boldemail">EMAIL:</span> 
-<span className="addmargin">joelgotnowmanagement@gmail.com</span>
+<span className="boldemail mobtext">EMAIL:</span> 
+<span className="addmargin mobtext">joelgotnowmanagement@gmail.com</span>
 
 
 

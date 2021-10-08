@@ -2,6 +2,9 @@
 
 
 
+
+
+
 .conthead{
 
 font-size: 50px;
@@ -23,8 +26,7 @@ font-weight: bold;
 
 
 .addmargin{
-
-
+    
     margin-left: 10px;
 }
 
@@ -36,4 +38,16 @@ font-size: 15px;
 font-weight: bold;
 
 
+}
+
+
+@media screen and (max-width: 322px) {
+
+
+ .addmargin {
+
+
+font-size: 11px;
+
+ }
 }
