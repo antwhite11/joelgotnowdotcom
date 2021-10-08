@@ -9,6 +9,7 @@ return (
 
 <div className= "container-fluid margb">
     <div className = "row">
+    <div className= "col-md-12">
 
 <nav className=" navbar navbgcolor fixed-top px-3">
   <div className="navbar-brand brandfont" href="#">JoélGotNow</div>
@@ -23,9 +24,9 @@ return (
       </span>
       <span className="list-inline-item "><Link className="linkfont hoveranimation linkdressing" to="/contact">CONTACT</Link>
       </span>
+      </div>
+    </div>
 
-    </div>
-    </div>
 
 </nav>
 
@@ -42,7 +43,7 @@ return (
     
     </div>
 
-
+    </div>
 
 
 
