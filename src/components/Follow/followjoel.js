@@ -79,7 +79,7 @@ Follow JoélGotNow
 <div className="col-md-4 border-top border-dark text-center">
 
 
-<a className="linksize" href="https://www.artxsound.us">www.artxsound.com</a>
+<a className="linksize" href="https://www.artxsound.us">www.artxsound.us</a>
 
 
 
