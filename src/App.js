@@ -3,6 +3,7 @@ import {BrowserRouter, Route,Switch} from "react-router-dom"
 import Page from './pages/page';
 import Bio from './pages/bio';
 import Contact from './pages/contact';
+import ScrollToTop from './components/scrolltotop';
 
 
 
@@ -10,6 +11,7 @@ function App (){
 
 return (
 <BrowserRouter>
+<ScrollToTop/>
 <Switch>
 
 <Route exact path="/" component={Page}></Route>
